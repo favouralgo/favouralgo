@@ -6,6 +6,9 @@
 - **📚 Frameworks:** Flask, Django, Tensorflow, Keras.
 - **📚 Platform:** MySQL, Tableau, VS Code.
 
+## 🛠⚒ Building
+- **💉💊 Canisa Health:** A personalized NCD management platform for patients and healthcare professionals
+
 ## 📦 Learning
 
 - **Discipline:** Data Science and Engineering (Cloud Computing, Statistics, Distributed Database Systems, Networking, System Design and Analysis)
