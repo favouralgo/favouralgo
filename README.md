@@ -1,20 +1,21 @@
 ## 🔧 Journey till now (2024 so far) [![wakatime](https://wakatime.com/badge/user/018b0f86-689e-4d32-984d-dc93cfb6e980.svg)](https://wakatime.com/@018b0f86-689e-4d32-984d-dc93cfb6e980)
 
-- **🖥️ Programming languages:** Java, SQL, Python, PHP.
+- **🖥️ Programming languages:** SQL, Python, PHP, JavaScript.
 - **🧰 Tools:** Git, Linux, Github.
 - **📚 Libraries:** Bootstrap CSS, jQuery, Tailwind CSS.
-- **📚 Frameworks:** Flask, Django, Tensorflow, Keras.
+- **📚 Frameworks:** Flask, Django, Tensorflow, Sci-Keras.
 - **📚 Platform:** MySQL, Tableau, VS Code.
 
 ## 🛠⚒ Building
+- **💊 Kurabill:** An B2B pharmacy management platform for intelligent management of their inventory and serving hard-to-reach patients
 - **💉💊 Canisa Health:** A personalized NCD management platform for patients and healthcare professionals
 
 ## 📦 Learning
 
-- **Discipline:** Data Science and Engineering (Cloud Computing, Statistics, Distributed Database Systems, Networking, System Design and Analysis)
+- **Discipline:** AI in Healthcare, Data Science and Engineering (Cloud Computing, Statistics, Distributed Database Systems, Networking, System Design and Analysis)
 - **Books:** A Common Sense Guide to Data Structures and Algorithms by Jay Wengrow.
-- **Libraries:** React js.
-- **Tools:** Snowflake, Apache Spark, Grafana.
+- **Libraries:** Next.js.
+- **Tools:** Databricks, Apache Spark, Grafana.
 
 ## 📦 Archived
 
