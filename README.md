@@ -1,4 +1,4 @@
-## 🔧 Journey till now (2024 so far) [![wakatime](https://wakatime.com/badge/user/018b0f86-689e-4d32-984d-dc93cfb6e980.svg)](https://wakatime.com/@018b0f86-689e-4d32-984d-dc93cfb6e980)
+## 🔧 Journey till now (2025 so far) [![wakatime](https://wakatime.com/badge/user/018b0f86-689e-4d32-984d-dc93cfb6e980.svg)](https://wakatime.com/@018b0f86-689e-4d32-984d-dc93cfb6e980)
 
 - **🖥️ Programming languages:** SQL, Python, PHP, JavaScript.
 - **🧰 Tools:** Git, Linux, Github.
